@@ -2,3 +2,5 @@ lirui is learn git
 hihihi
 creating a new branch 
 eeeeexxxxxxxxxxxxxxx
+
+fix bug 99
